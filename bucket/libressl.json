@@ -3,7 +3,7 @@
     "description": "LibreSSL is a version of the TLS/crypto stack forked from OpenSSL in 2014, with goals of modernizing the codebase, improving security, and applying best practice development processes.",
     "homepage": "https://www.libressl.org/",
     "license": "Unkonwn",
-    "note": "might conflict with openssl",
+    "notes": "might conflict with openssl",
     "architecture": {
         "64bit": {
             "url": "https://github.com/libressl/portable/releases/download/v4.0.0/libressl_v4.0.0_windows_x64.zip",
