@@ -16,25 +16,7 @@
     "suggest": {
         "JRE-LTS": [
             "java/microsoft-lts-jdk",
-            "java/temurin-lts-jdk",
             "java/temurin-lts-jre"
-        ],
-        "JRE21": [
-            "java/dragonwell21-jdk",
-            "java/microsoft21-jdk",
-            "java/temurin21-jdk",
-            "java/temurin21-jre",
-            "java/zulu21-jdk",
-            "java/zulu21-jre"
-        ],
-        "JRE17": [
-            "java/dragonwell17-jdk",
-            "java/graalvm-jdk17",
-            "java/microsoft17-jdk",
-            "java/temurin17-jdk",
-            "java/temurin17-jre",
-            "java/zulu17-jdk",
-            "java/zulu17-jre"
         ]
     },
     "pre_install": [
