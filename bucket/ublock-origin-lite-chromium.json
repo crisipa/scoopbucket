@@ -6,6 +6,7 @@
     "notes": "you should import it manually as chromium don't allow sideload extensions",
     "url": "https://github.com/uBlockOrigin/uBOL-home/releases/download/uBOLite_2025.709.1622/uBOLite_2025.709.1622.chromium.mv3.zip",
     "hash": "67d23512f1808ad2a57c4dd8afa722cb586192279eb39730b4997ff3a0b14866",
+    "extract_to": "uBlockOriginLite",
     "checkver": {
         "url": "https://api.github.com/repos/uBlockOrigin/uBOL-home/releases",
         "regex": "/releases/tag/uBOLite_([0-9.]+)"
