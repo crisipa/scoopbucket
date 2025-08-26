@@ -1,5 +1,5 @@
 {
-    "version": "3.6.15",
+    "version": "3.6.16",
     "description": "A multi-functional, cross-platform Minecraft Launcher.",
     "homepage": "https://hmcl.huangyuhui.net/",
     "license": "GPL-3.0-only",
@@ -11,8 +11,8 @@
         "suggest JRE/JDK:",
         "microsoft dragonwell temurin zulu graalvm"
     ],
-    "url": "https://maven.aliyun.com/repository/central/org/glavo/hmcl/hmcl-stable/3.6.15/hmcl-stable-3.6.15.exe#/HMCL.exe",
-    "hash": "c072eb07917be78b149bab6e52f78901ff93894b1b3c07264e23e1be2bbbd9e8",
+    "url": "https://maven.aliyun.com/repository/central/org/glavo/hmcl/hmcl-stable/3.6.16/hmcl-stable-3.6.16.exe#/HMCL.exe",
+    "hash": "c352fea976c413c4a3daf962520c67efd25964fb8c415be2e5e176b43a5efd63",
     "suggest": {
         "JRE-LTS": [
             "java/microsoft-lts-jdk",
