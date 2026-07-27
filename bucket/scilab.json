@@ -24,8 +24,8 @@
         ]
     },
     "checkver": {
-        "url": "https://www.scilab.org/",
-        "regex": "Scilab ([\\d.]+)"
+        "url": "https://help.scilab.org/docs/current/en_US/CHANGES.html",
+        "regex": "Welcome to Scilab ([\\d.]+)"
     },
     "autoupdate": {
         "architecture": {
