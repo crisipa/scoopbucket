@@ -10,7 +10,12 @@
         "mc 1.20.5+ => JRE21/JDK21",
         "mc 26H1+ => JRE25/JDK25",
         "suggest JRE/JDK:",
-        "temurin microsoft dragonwell zulu graalvm"
+        "temurin : high quality builds of openjdk",
+        "microsoft : used by offical minecraft luncher",
+        "semeru : lower mem usage,lower compatibility",
+        "liberica-nik/graalvm : better performance powered by graal?",
+        "zulu : powered by azul",
+        "dragonwell : tuned by alibaba"
     ],
     "url": "https://github.com/HMCL-dev/HMCL/releases/download/v3.16.3/HMCL-3.16.3.exe#/hmcl.exe",
     "hash": "adc65a82ed31876bb4c7d5e3335c2399bd698bc350ffbc097ae0c66855b777f6",
