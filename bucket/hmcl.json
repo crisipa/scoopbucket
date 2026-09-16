@@ -33,7 +33,7 @@
         ]
     ],
     "persist": [
-        "hmcl.json",
+        ".hmcl",
         ".minecraft"
     ],
     "checkver": "github",
